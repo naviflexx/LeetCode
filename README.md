@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/naviflexx/LeetCode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
