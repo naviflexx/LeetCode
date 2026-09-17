@@ -30,5 +30,14 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/naviflexx/LeetCode/tree/master/0507-perfect-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
