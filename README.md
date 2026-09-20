@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/naviflexx/LeetCode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/naviflexx/LeetCode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/naviflexx/LeetCode/tree/master/0342-power-of-four) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/naviflexx/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/naviflexx/LeetCode/tree/master/1929-concatenation-of-array) |
