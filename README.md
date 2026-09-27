@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/naviflexx/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/naviflexx/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/naviflexx/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
@@ -46,6 +47,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/naviflexx/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/naviflexx/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
