@@ -78,6 +78,7 @@
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -110,9 +111,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
