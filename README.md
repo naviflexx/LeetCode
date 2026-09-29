@@ -36,6 +36,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/naviflexx/LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/naviflexx/LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/naviflexx/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/naviflexx/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
@@ -71,6 +72,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naviflexx/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naviflexx/LeetCode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/naviflexx/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -83,6 +85,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/naviflexx/LeetCode/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/naviflexx/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
