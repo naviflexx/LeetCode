@@ -84,6 +84,7 @@
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naviflexx/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/naviflexx/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +118,7 @@
 | [0035-search-insert-position](https://github.com/naviflexx/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/naviflexx/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/naviflexx/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naviflexx/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
