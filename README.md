@@ -87,6 +87,7 @@
 | [0283-move-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/naviflexx/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/naviflexx/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -115,6 +116,7 @@
 | [0069-sqrtx](https://github.com/naviflexx/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
 | ------- |
