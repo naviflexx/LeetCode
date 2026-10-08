@@ -48,6 +48,7 @@
 | [0258-add-digits](https://github.com/naviflexx/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/naviflexx/LeetCode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/naviflexx/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/naviflexx/LeetCode/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/naviflexx/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/naviflexx/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -129,6 +130,7 @@
 | [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/naviflexx/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
