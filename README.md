@@ -17,6 +17,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String Matching
@@ -56,6 +57,7 @@
 | [0029-divide-two-integers](https://github.com/naviflexx/LeetCode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/naviflexx/LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -90,6 +92,7 @@
 | [0238-product-of-array-except-self](https://github.com/naviflexx/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
@@ -123,6 +126,7 @@
 | [0074-search-a-2d-matrix](https://github.com/naviflexx/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naviflexx/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
@@ -149,4 +153,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
