@@ -51,6 +51,7 @@
 | [0342-power-of-four](https://github.com/naviflexx/LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/naviflexx/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/naviflexx/LeetCode/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/naviflexx/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/naviflexx/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/naviflexx/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
@@ -100,6 +101,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/naviflexx/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/naviflexx/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/naviflexx/LeetCode/tree/master/1672-richest-customer-wealth) |
