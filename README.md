@@ -52,6 +52,7 @@
 | [0342-power-of-four](https://github.com/naviflexx/LeetCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/naviflexx/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/naviflexx/LeetCode/tree/master/0507-perfect-number) |
+| [0866-prime-palindrome](https://github.com/naviflexx/LeetCode/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naviflexx/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/naviflexx/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/naviflexx/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/naviflexx/LeetCode/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/naviflexx/LeetCode/tree/master/0866-prime-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/naviflexx/LeetCode/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
