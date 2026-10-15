@@ -90,6 +90,7 @@
 | [0027-remove-element](https://github.com/naviflexx/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naviflexx/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/naviflexx/LeetCode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/naviflexx/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -137,6 +138,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
@@ -197,6 +199,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/naviflexx/LeetCode/tree/master/0860-lemonade-change) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
