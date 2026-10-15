@@ -46,6 +46,7 @@
 | [0048-rotate-image](https://github.com/naviflexx/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/naviflexx/LeetCode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/naviflexx/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/naviflexx/LeetCode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/naviflexx/LeetCode/tree/master/0866-prime-palindrome) |
 ## Array
@@ -95,6 +97,7 @@
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naviflexx/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/naviflexx/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/naviflexx/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
@@ -187,6 +190,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naviflexx/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
 |  |
@@ -201,5 +205,14 @@
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/naviflexx/LeetCode/tree/master/0866-prime-palindrome) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
