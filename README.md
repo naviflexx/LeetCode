@@ -105,6 +105,7 @@
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/naviflexx/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/naviflexx/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/naviflexx/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/naviflexx/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/naviflexx/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
