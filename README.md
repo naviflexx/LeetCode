@@ -58,6 +58,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naviflexx/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/naviflexx/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/naviflexx/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/naviflexx/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/naviflexx/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/naviflexx/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
 |  |
 | ------- |
