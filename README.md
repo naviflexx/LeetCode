@@ -116,6 +116,7 @@
 | [0860-lemonade-change](https://github.com/naviflexx/LeetCode/tree/master/0860-lemonade-change) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naviflexx/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naviflexx/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/naviflexx/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/naviflexx/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/naviflexx/LeetCode/tree/master/1701-average-waiting-time) |
@@ -185,6 +186,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naviflexx/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
