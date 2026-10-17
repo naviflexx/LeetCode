@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naviflexx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naviflexx/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -89,6 +90,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naviflexx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/naviflexx/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/naviflexx/LeetCode/tree/master/0035-search-insert-position) |
@@ -214,6 +216,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/naviflexx/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/naviflexx/LeetCode/tree/master/0860-lemonade-change) |
