@@ -100,6 +100,7 @@
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naviflexx/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/naviflexx/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/naviflexx/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naviflexx/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naviflexx/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naviflexx/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naviflexx/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
@@ -235,5 +238,14 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
