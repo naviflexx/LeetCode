@@ -10,6 +10,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/naviflexx/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/naviflexx/LeetCode/tree/master/0058-length-of-last-word) |
+| [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/naviflexx/LeetCode/tree/master/0242-valid-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/naviflexx/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -108,6 +109,7 @@
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/naviflexx/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
@@ -166,6 +168,7 @@
 | [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | [0049-group-anagrams](https://github.com/naviflexx/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/naviflexx/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/naviflexx/LeetCode/tree/master/0242-valid-anagram) |
@@ -291,4 +295,16 @@
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/naviflexx/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
