@@ -13,6 +13,7 @@
 | [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/naviflexx/LeetCode/tree/master/0242-valid-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/naviflexx/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/naviflexx/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/naviflexx/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -204,6 +205,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1796-second-largest-digit-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
