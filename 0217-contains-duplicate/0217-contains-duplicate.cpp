@@ -1,12 +1,10 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int , int> freq;
-        for(int x : nums) freq[x]++;
-        for(auto &k : freq){
-            if(k.second >=2){
-                return true;
-            }
+        unordered_set<int> mp;
+        for(int x : nums){
+            if(mp.count(x)) return true;
+            else mp.insert(x);
         }
         return false;
     }
