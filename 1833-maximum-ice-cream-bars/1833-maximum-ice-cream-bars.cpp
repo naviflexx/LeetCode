@@ -1,15 +1,18 @@
 class Solution {
 public:
     int maxIceCream(vector<int>& costs, int coins) {
-        int n = costs.size();
-        sort(costs.begin() , costs.end());
-        int maxIce=0;
-        for(int ax : costs){
-            if(coins >= ax){
-                coins -= ax; maxIce++;
+        int max = *max_element(costs.begin() , costs.end());
+        vector<int> nums(max+1 , 0);
+        for(int x : costs) nums[x]++;
+        int ct=0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i]==0) continue;
+            if(i>coins) break;
+            else{
+                int k = min(nums[i] , coins/i);
+                ct +=k; coins -= i*k;
             }
-            else break;
         }
-        return maxIce;
+        return ct;
     }
 };
