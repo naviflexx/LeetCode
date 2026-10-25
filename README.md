@@ -141,6 +141,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/naviflexx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/naviflexx/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/naviflexx/LeetCode/tree/master/1701-average-waiting-time) |
+| [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/naviflexx/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/naviflexx/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naviflexx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -225,6 +226,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naviflexx/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naviflexx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
@@ -251,6 +253,7 @@
 | [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/naviflexx/LeetCode/tree/master/0860-lemonade-change) |
+| [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
@@ -315,4 +318,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
