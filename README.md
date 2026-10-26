@@ -107,6 +107,7 @@
 | [0035-search-insert-position](https://github.com/naviflexx/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/naviflexx/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naviflexx/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/naviflexx/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -173,6 +174,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/naviflexx/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/naviflexx/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -289,6 +291,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/naviflexx/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/naviflexx/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/naviflexx/LeetCode/tree/master/0169-majority-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
