@@ -13,6 +13,7 @@
 | [0139-word-break](https://github.com/naviflexx/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/naviflexx/LeetCode/tree/master/0242-valid-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/naviflexx/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1768-merge-strings-alternately](https://github.com/naviflexx/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2409-count-days-spent-together](https://github.com/naviflexx/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -33,6 +34,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/naviflexx/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/naviflexx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String Matching
