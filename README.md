@@ -141,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/naviflexx/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naviflexx/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
@@ -231,6 +232,7 @@
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naviflexx/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1796-second-largest-digit-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
