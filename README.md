@@ -144,6 +144,7 @@
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/naviflexx/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naviflexx/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/naviflexx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/naviflexx/LeetCode/tree/master/0739-daily-temperatures) |
@@ -304,6 +305,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/naviflexx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naviflexx/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
