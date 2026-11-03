@@ -78,6 +78,7 @@
 | [2409-count-days-spent-together](https://github.com/naviflexx/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/naviflexx/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/naviflexx/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/naviflexx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naviflexx/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/naviflexx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
 |  |
 | ------- |
