@@ -173,6 +173,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/naviflexx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naviflexx/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/naviflexx/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/naviflexx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
@@ -293,6 +294,7 @@
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/naviflexx/LeetCode/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3689-maximum-total-subarray-value-i](https://github.com/naviflexx/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
