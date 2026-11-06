@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/naviflexx/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/naviflexx/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/naviflexx/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/naviflexx/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/naviflexx/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -127,6 +128,7 @@
 | [0066-plus-one](https://github.com/naviflexx/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/naviflexx/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/naviflexx/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/naviflexx/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/naviflexx/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -376,4 +378,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/naviflexx/LeetCode/tree/master/0739-daily-temperatures) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/naviflexx/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
