@@ -164,6 +164,7 @@
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naviflexx/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naviflexx/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/naviflexx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/naviflexx/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naviflexx/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -193,6 +194,7 @@
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/naviflexx/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/naviflexx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/naviflexx/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/naviflexx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/naviflexx/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -331,6 +333,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/naviflexx/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/naviflexx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naviflexx/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/naviflexx/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
