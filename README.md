@@ -155,6 +155,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/naviflexx/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naviflexx/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/naviflexx/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/naviflexx/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/naviflexx/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
@@ -188,6 +189,7 @@
 | [0238-product-of-array-except-self](https://github.com/naviflexx/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/naviflexx/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/naviflexx/LeetCode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0560-subarray-sum-equals-k](https://github.com/naviflexx/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/naviflexx/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -253,6 +255,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naviflexx/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/naviflexx/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1796-second-largest-digit-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
