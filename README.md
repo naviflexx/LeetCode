@@ -36,6 +36,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/naviflexx/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/naviflexx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/naviflexx/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/naviflexx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -163,6 +164,7 @@
 | [0724-find-pivot-index](https://github.com/naviflexx/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/naviflexx/LeetCode/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/naviflexx/LeetCode/tree/master/0860-lemonade-change) |
+| [0905-sort-array-by-parity](https://github.com/naviflexx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/naviflexx/LeetCode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/naviflexx/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -278,6 +280,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/naviflexx/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/naviflexx/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0905-sort-array-by-parity](https://github.com/naviflexx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naviflexx/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naviflexx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
