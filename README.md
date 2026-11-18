@@ -17,6 +17,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2409-count-days-spent-together](https://github.com/naviflexx/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/naviflexx/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/naviflexx/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/naviflexx/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/naviflexx/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
