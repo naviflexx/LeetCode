@@ -39,6 +39,7 @@
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/naviflexx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/naviflexx/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naviflexx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/naviflexx/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/naviflexx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -179,6 +180,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/naviflexx/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/naviflexx/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1672-richest-customer-wealth](https://github.com/naviflexx/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naviflexx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1701-average-waiting-time](https://github.com/naviflexx/LeetCode/tree/master/1701-average-waiting-time) |
 | [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/naviflexx/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -268,6 +270,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/naviflexx/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/naviflexx/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/naviflexx/LeetCode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naviflexx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1796-second-largest-digit-in-a-string](https://github.com/naviflexx/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/naviflexx/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -288,6 +291,7 @@
 | [0905-sort-array-by-parity](https://github.com/naviflexx/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/naviflexx/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/naviflexx/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/naviflexx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naviflexx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
