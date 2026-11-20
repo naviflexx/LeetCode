@@ -6,7 +6,7 @@ public:
         mp[nums[0]] +=1;
         for(int i=1; i<n; i++){
             int ele= k-nums[i];
-            if(mp[ele] > 0){
+            if(mp[ele] >0){
             ct++;
             mp[ele]--;
         }
