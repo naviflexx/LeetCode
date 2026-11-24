@@ -193,6 +193,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/naviflexx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/naviflexx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/naviflexx/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/naviflexx/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/naviflexx/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3689-maximum-total-subarray-value-i](https://github.com/naviflexx/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -301,6 +302,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/naviflexx/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/naviflexx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/naviflexx/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Union-Find
 |  |
@@ -327,6 +329,7 @@
 | [0455-assign-cookies](https://github.com/naviflexx/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/naviflexx/LeetCode/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/naviflexx/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/naviflexx/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/naviflexx/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
