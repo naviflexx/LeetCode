@@ -87,6 +87,7 @@
 | [2409-count-days-spent-together](https://github.com/naviflexx/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/naviflexx/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/naviflexx/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/naviflexx/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/naviflexx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
@@ -119,6 +120,7 @@
 | [0204-count-primes](https://github.com/naviflexx/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/naviflexx/LeetCode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/naviflexx/LeetCode/tree/master/0866-prime-palindrome) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/naviflexx/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
