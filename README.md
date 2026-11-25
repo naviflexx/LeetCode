@@ -46,6 +46,7 @@
 | [1768-merge-strings-alternately](https://github.com/naviflexx/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/naviflexx/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/naviflexx/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [2485-find-the-pivot-integer](https://github.com/naviflexx/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naviflexx/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/naviflexx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/naviflexx/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/naviflexx/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/naviflexx/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/naviflexx/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/naviflexx/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0258-add-digits](https://github.com/naviflexx/LeetCode/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/naviflexx/LeetCode/tree/master/0866-prime-palindrome) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/naviflexx/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/naviflexx/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -202,6 +206,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/naviflexx/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/naviflexx/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/naviflexx/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -307,6 +312,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/naviflexx/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/naviflexx/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/naviflexx/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/naviflexx/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
