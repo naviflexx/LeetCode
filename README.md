@@ -139,6 +139,7 @@
 | [0031-next-permutation](https://github.com/naviflexx/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/naviflexx/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/naviflexx/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/naviflexx/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/naviflexx/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/naviflexx/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/naviflexx/LeetCode/tree/master/0053-maximum-subarray) |
@@ -272,6 +273,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/naviflexx/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/naviflexx/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/naviflexx/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/naviflexx/LeetCode/tree/master/0128-longest-consecutive-sequence) |
